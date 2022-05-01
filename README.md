@@ -23,7 +23,7 @@ The size of the dataset is over 5GB, we're not able to upload it to Github, ther
        
 **32-ModelingWithAll.ipynb:** This part is an extension of the previous ReviewModeling approach. Besides the review content, we also would like to use other information of users to make a prediction on whether or not the user will recommend this game.        
        
-**32-ModelingWithAll_copy1.ipynb** In this notebook, we tried to improve our model performance by fine-tunning different parameters for each model.
+**32-ModelingWithAll_copy1.ipynb:** In this notebook, we tried to improve our model performance by fine-tunning different parameters for each model.
 
 ## Results
 By comparing the results of different approaches and models, we found that the decision tree with all the features and reviews performs the best. Also, when max_depth = 5, the decision tree gets the best F1-score of about 0.8 and the most important feature is playtime_forever.        
