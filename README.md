@@ -1,9 +1,8 @@
 # SteamGameAnalysis
 
 ## Objective
-Many people, including us, are game lovers, and we’d like to provide some up-to-date game analysis for other gamers. In this way, we can also learn more about the game market and provide some insights based on game information.
+Many people, including us, are game lovers, and we’d like to provide some up-to-date game analysis for other gamers by getting our own up-to-date dataset.  Furthermore, we plan to investigate the relationship between positive rates and other factors, and propose a method that can predict whether the user will recommend a game or not. In this way, we can also learn more about the game market and provide some insights based on our results.
 
-## Problem
 
       
 ## Dataset
