@@ -22,6 +22,13 @@ The size of the dataset is over 5GB, we're not able to upload it to Github, ther
 **31-ReviewModling.ipynb:** For this part, we used review of games as the only input for transformer models and tried to predict whether the gamers are willing to recommend those games.      
        
 **32-ModelingWithAll.ipynb:** This part is an extension of the previous ReviewModeling approach. Besides the review content, we also would like to use other information of users to make a prediction on whether or not the user will recommend this game.        
+       
+**32-ModelingWithAll_copy1.ipynb** In this notebook, we tried to improve our model performance by fine-tunning different parameters for each model.
+
+## Results
+By comparing the results of different approaches and models, we found that the decision tree with all the features and reviews performs the best. Also, when max_depth = 5, the decision tree gets the best F1-score of about 0.8 and the most important feature is playtime_forever.        
+As the results of the models are distributed in different notebooks, we visualized some of the results using Excel.     
+
 
 ## Reference
 [Kaggle|Steam reviews - EDA & Word Clouds](https://www.kaggle.com/code/pegahpooya/steam-reviews-eda-word-clouds)       
