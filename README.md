@@ -20,7 +20,7 @@ The size of the dataset is over 5GB, we're not able to upload it to Github, ther
 **32-ModelingWithAll.ipynb:** This part is an extension of the previous ReviewModeling approach. Besides the review content, we also would like to use other information of users to make a prediction on whether or not the user will recommend this game.        
 
 ## Reference
-[Kaggle|Steam reviews - EDA & Word Clouds](https://www.kaggle.com/code/pegahpooya/steam-reviews-eda-word-clouds)
-[Machine Learning with Text in PySpark](https://datascience-enthusiast.com/Python/PySpark_ML_with_Text_part1.html)
-[Sentiment Analysis with PySpark](https://towardsdatascience.com/sentiment-analysis-with-pyspark-bc8e83f80c35)
-[Spark Official Document|MulticlassClassificationEvaluator](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.evaluation.MulticlassClassificationEvaluator.html)
+[Kaggle|Steam reviews - EDA & Word Clouds](https://www.kaggle.com/code/pegahpooya/steam-reviews-eda-word-clouds)       
+[Machine Learning with Text in PySpark](https://datascience-enthusiast.com/Python/PySpark_ML_with_Text_part1.html)       
+[Sentiment Analysis with PySpark](https://towardsdatascience.com/sentiment-analysis-with-pyspark-bc8e83f80c35)       
+[Spark Official Document|MulticlassClassificationEvaluator](https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.evaluation.MulticlassClassificationEvaluator.html)       
